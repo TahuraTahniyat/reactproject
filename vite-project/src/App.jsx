@@ -12,6 +12,7 @@ function App() {
         <h1>React with Vite</h1>
         <br />
         <p> This is tahura from aiml-b section </p>
+        <h2> Hello </h2>
         
         </div>
     </>
